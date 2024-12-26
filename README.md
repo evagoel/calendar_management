@@ -5,7 +5,7 @@
   4. Run npm run dev.
   5. View port 5173 for viewing the live webApp.
 
-## Deployment Link : https://communication-calender.vercel.app/
+## Deployment Link : https://calendar-management.vercel.app/
 
 
 ## Application Functionality
